@@ -1,0 +1,14 @@
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/DraftKingsAssesment/bin/Debug/net9.0/DraftKingsAssesment
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/DraftKingsAssesment/bin/Debug/net9.0/DraftKingsAssesment.deps.json
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/DraftKingsAssesment/bin/Debug/net9.0/DraftKingsAssesment.runtimeconfig.json
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/DraftKingsAssesment/bin/Debug/net9.0/DraftKingsAssesment.dll
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/DraftKingsAssesment/bin/Debug/net9.0/DraftKingsAssesment.pdb
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/DraftKingsAssesment/obj/Debug/net9.0/DraftKingsAssesment.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/DraftKingsAssesment/obj/Debug/net9.0/DraftKingsAssesment.AssemblyInfoInputs.cache
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/DraftKingsAssesment/obj/Debug/net9.0/DraftKingsAssesment.AssemblyInfo.cs
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/DraftKingsAssesment/obj/Debug/net9.0/DraftKingsAssesment.csproj.CoreCompileInputs.cache
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/DraftKingsAssesment/obj/Debug/net9.0/DraftKingsAssesment.dll
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/DraftKingsAssesment/obj/Debug/net9.0/refint/DraftKingsAssesment.dll
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/DraftKingsAssesment/obj/Debug/net9.0/DraftKingsAssesment.pdb
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/DraftKingsAssesment/obj/Debug/net9.0/DraftKingsAssesment.genruntimeconfig.cache
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/DraftKingsAssesment/obj/Debug/net9.0/ref/DraftKingsAssesment.dll
