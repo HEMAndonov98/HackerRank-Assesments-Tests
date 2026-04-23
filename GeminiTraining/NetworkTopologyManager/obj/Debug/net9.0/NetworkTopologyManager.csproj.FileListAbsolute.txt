@@ -1,0 +1,15 @@
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/bin/Debug/net9.0/NetworkTopologyManager
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/bin/Debug/net9.0/NetworkTopologyManager.deps.json
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/bin/Debug/net9.0/NetworkTopologyManager.runtimeconfig.json
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/bin/Debug/net9.0/NetworkTopologyManager.dll
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/bin/Debug/net9.0/NetworkTopologyManager.pdb
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/obj/Debug/net9.0/NetworkTopologyManager.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/obj/Debug/net9.0/NetworkTopologyManager.AssemblyInfoInputs.cache
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/obj/Debug/net9.0/NetworkTopologyManager.AssemblyInfo.cs
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/obj/Debug/net9.0/NetworkTopologyManager.csproj.CoreCompileInputs.cache
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/obj/Debug/net9.0/NetworkTopologyManager.sourcelink.json
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/obj/Debug/net9.0/NetworkTopologyManager.dll
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/obj/Debug/net9.0/refint/NetworkTopologyManager.dll
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/obj/Debug/net9.0/NetworkTopologyManager.pdb
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/obj/Debug/net9.0/NetworkTopologyManager.genruntimeconfig.cache
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/NetworkTopologyManager/obj/Debug/net9.0/ref/NetworkTopologyManager.dll
