@@ -1,0 +1,15 @@
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/bin/Debug/net9.0/CI CD Pipeline Resolver
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/bin/Debug/net9.0/CI CD Pipeline Resolver.deps.json
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/bin/Debug/net9.0/CI CD Pipeline Resolver.runtimeconfig.json
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/bin/Debug/net9.0/CI CD Pipeline Resolver.dll
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/bin/Debug/net9.0/CI CD Pipeline Resolver.pdb
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/obj/Debug/net9.0/CI CD Pipeline Resolver.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/obj/Debug/net9.0/CI CD Pipeline Resolver.AssemblyInfoInputs.cache
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/obj/Debug/net9.0/CI CD Pipeline Resolver.AssemblyInfo.cs
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/obj/Debug/net9.0/CI CD Pipeline Resolver.csproj.CoreCompileInputs.cache
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/obj/Debug/net9.0/CI CD Pipeline Resolver.sourcelink.json
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/obj/Debug/net9.0/CI CD Pipeline Resolver.dll
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/obj/Debug/net9.0/refint/CI CD Pipeline Resolver.dll
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/obj/Debug/net9.0/CI CD Pipeline Resolver.pdb
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/obj/Debug/net9.0/CI CD Pipeline Resolver.genruntimeconfig.cache
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/CI CD Pipeline Resolver/obj/Debug/net9.0/ref/CI CD Pipeline Resolver.dll

@@ -47,7 +47,7 @@ namespace SofiaConnect
 
         public void Maintenance(string id)
         {
-            if (routers.ContainsKey(id))
+            if (!routers.ContainsKey(id))
                 return;
 
             var routerToRemove = routers[id];
