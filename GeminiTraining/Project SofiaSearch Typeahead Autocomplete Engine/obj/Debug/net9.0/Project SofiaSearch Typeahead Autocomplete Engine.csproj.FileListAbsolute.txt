@@ -1,0 +1,15 @@
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/bin/Debug/net9.0/Project SofiaSearch Typeahead Autocomplete Engine
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/bin/Debug/net9.0/Project SofiaSearch Typeahead Autocomplete Engine.deps.json
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/bin/Debug/net9.0/Project SofiaSearch Typeahead Autocomplete Engine.runtimeconfig.json
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/bin/Debug/net9.0/Project SofiaSearch Typeahead Autocomplete Engine.dll
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/bin/Debug/net9.0/Project SofiaSearch Typeahead Autocomplete Engine.pdb
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/obj/Debug/net9.0/Project SofiaSearch Typeahead Autocomplete Engine.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/obj/Debug/net9.0/Project SofiaSearch Typeahead Autocomplete Engine.AssemblyInfoInputs.cache
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/obj/Debug/net9.0/Project SofiaSearch Typeahead Autocomplete Engine.AssemblyInfo.cs
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/obj/Debug/net9.0/Project SofiaSearch Typeahead Autocomplete Engine.csproj.CoreCompileInputs.cache
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/obj/Debug/net9.0/Project SofiaSearch Typeahead Autocomplete Engine.sourcelink.json
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/obj/Debug/net9.0/Project SofiaSearch Typeahead Autocomplete Engine.dll
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/obj/Debug/net9.0/refint/Project SofiaSearch Typeahead Autocomplete Engine.dll
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/obj/Debug/net9.0/Project SofiaSearch Typeahead Autocomplete Engine.pdb
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/obj/Debug/net9.0/Project SofiaSearch Typeahead Autocomplete Engine.genruntimeconfig.cache
+/Volumes/ExtremeSSD/Projects/HackerRank Assesments&Tests/GeminiTraining/Project SofiaSearch Typeahead Autocomplete Engine/obj/Debug/net9.0/ref/Project SofiaSearch Typeahead Autocomplete Engine.dll
