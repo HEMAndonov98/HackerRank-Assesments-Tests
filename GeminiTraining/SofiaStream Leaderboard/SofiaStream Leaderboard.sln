@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SofiaStream Leaderboard", "SofiaStream Leaderboard.csproj", "{095AF058-7621-FE05-64A8-6BA1A8C87FB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{095AF058-7621-FE05-64A8-6BA1A8C87FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095AF058-7621-FE05-64A8-6BA1A8C87FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095AF058-7621-FE05-64A8-6BA1A8C87FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095AF058-7621-FE05-64A8-6BA1A8C87FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {799212FB-0557-4E5B-8460-1C1DA2459C04}
+	EndGlobalSection
+EndGlobal
